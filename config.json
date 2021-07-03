@@ -1,0 +1,10 @@
+{
+    "SECRET_KEY": "509f1e4d74931731f110b1bda3b86abe",
+
+    "SQLALCHEMY_DATABASE_URI": "sqlite:///site.db",
+
+    "EMAIL_USER": "shuklasonam9415@gmail.com",
+
+    "EMAIL_PASS": "Mark45@google"
+
+}
